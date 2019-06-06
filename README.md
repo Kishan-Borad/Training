@@ -1,5 +1,6 @@
 # Training
-This repository is for the training.
-Weekly Assignment deployment.
-Code quality check.
+
+1. This repository is for the training.
+2. Weekly Assignment deployment.
+3. Code quality check.
 
